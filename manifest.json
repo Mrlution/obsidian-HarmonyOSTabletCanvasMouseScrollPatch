@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-HarmonyOSTabletCanvasMouseScrollPatch",
+	"name": "HarmonyOSTabletCanvasMouseScrollPatch",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "This is a plugin designed to address the issue where the mouse wheel cannot be used to zoom in Obsidian Canvas on HarmonyOS tablets.",
+	"author": "lution",
+	"authorUrl": "https://github.com/Mrlution",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
